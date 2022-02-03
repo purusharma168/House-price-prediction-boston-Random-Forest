@@ -47,20 +47,3 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
-## Home Proejct
-
-![Test Image 1](https://github.com/codejay411/House-price-prediction-boston/blob/main/Screenshot%20(72).png)
-
-## Prediction page
-
-![Test Image 1](https://github.com/codejay411/House-price-prediction-boston/blob/main/Screenshot%20(73).png)
-
-## About page
-
-![Test Image 1](https://github.com/codejay411/House-price-prediction-boston/blob/main/Screenshot%20(74).png)
-
-## Contact page
-
-![Test Image 1](https://github.com/codejay411/House-price-prediction-boston/blob/main/Screenshot%20(75).png)
-
-
